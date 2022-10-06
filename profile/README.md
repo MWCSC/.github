@@ -8,5 +8,3 @@ Here are some links to check us out:
 
 - [Instagram](https://instagram.com/wardcoding)
 - More coming soon...
-
-(MWCSC = Mary Ward Computer Science Club)

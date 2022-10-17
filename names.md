@@ -3,7 +3,8 @@
 |Name|Username|Team|
 |----|--------|----|
 | Christian Fernandes| 5late | Advanced Lead |
-|Ryan Alumkal| ryanalumkal| Intermediate|
+|Ryan Alumkal| ryanalumkal| Intermediate Lead |
+|Nolawi Yonas | nolawiyonas1 | Beginner Lead|
 | Alexandre Waneis   |        ||
 |Daniel Chu |  |  |
 |Daniel Joseph  | ||

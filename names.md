@@ -3,6 +3,7 @@
 |Name|Username|Team|
 |----|--------|----|
 | Christian Fernandes| 5late | Advanced |
+|Ryan Alumkal| ryanalumkal| Intermediate|
 | Alexandre Waneis   |        ||
 |Daniel Chu |  |  |
 |Daniel Joseph  | ||

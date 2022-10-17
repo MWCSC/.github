@@ -2,7 +2,7 @@
 
 |Name|Username|Team|
 |----|--------|----|
-| Christian Fernandes| 5late | Advanced |
+| Christian Fernandes| 5late | Advanced Lead |
 |Ryan Alumkal| ryanalumkal| Intermediate|
 | Alexandre Waneis   |        ||
 |Daniel Chu |  |  |

@@ -1,6 +1,6 @@
 # Usernames and Info
 
-|Name|Username|Team|
+|Name|GitHub Username|Team|
 |----|--------|----|
 | Christian Fernandes| 5late | Advanced Lead |
 |Ryan Alumkal| ryanalumkal| Intermediate Lead |

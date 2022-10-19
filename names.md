@@ -2,6 +2,7 @@
 
 |Name|GitHub Username|Team|
 |----|--------|----|
+|Example|||
 | Christian Fernandes| 5late | Advanced Lead |
 |Ryan Alumkal| ryanalumkal| Intermediate Lead |
 |Nolawi Yonas | nolawiyonas1 | Beginner Lead|

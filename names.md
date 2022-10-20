@@ -4,7 +4,7 @@
 |----|--------|----|
 |Example|||
 | Christian Fernandes| 5late | Advanced Lead |
-|Ryan Alumkal| ryanalumkal| Intermediate Lead |
+|Ryan Alumkal| | |
 |Nolawi Yonas | nolawiyonas1 | Beginner Lead|
 | Alexandre Waneis   |        ||
 |Daniel Chu |  |  |

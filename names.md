@@ -30,8 +30,8 @@
 |Morin Emmanuel  |Morin-Emma|Beginner|
 |Prashanth Theethasge | | |
 |Sabinus Shibu | | |
+|Sofia Borabien  |sofiabrbn|Beginner Lead|
 |Sobanikka Xavier | melon lemon826 | beginner |
-|Sofia Borabien  | | |
 |Aidan Zhou | | |
 |Amy Hu | | |
 |Anthony Toyco | anthonytoyco | Advanced Member |

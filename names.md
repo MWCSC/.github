@@ -23,7 +23,7 @@
 |Jessica Williams  | | |
 |Joy Giaus-Obas | | |
 |Leah aquino | | |
-|Linda Melendez | | | 
+|Linda Melendez |toosmartie|beginner| 
 |Mallorie Rae Ambas Cunanan | | |
 |Marius Sasu | | |
 |Megan Rhyz Angela Cabasan | | |

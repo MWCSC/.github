@@ -49,6 +49,7 @@
 |jacob de leon | | |
 |Stephanie Zhang | | | 
 |Kerrie Huang | | |
+|Arthur Jiang |AquaDummy |Advanced Team |
 |Kevin Huang | blubsblub | Beginner |
 |Adrian Tsui |AdrianCodingClubMW |Intermediate |
 |Jessen Comia | jc9mia| beginner|

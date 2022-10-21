@@ -49,4 +49,4 @@
 |jacob de leon | | |
 |Stephanie Zhang | | | 
 |Kerrie Huang | | |
-|Sean Bacudio |Seanlmb |Beginner Lead |
+|Sean Bacudio |Seanlmb |Beginner |

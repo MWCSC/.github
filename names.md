@@ -10,7 +10,7 @@
 |Daniel Chu |  |  |
 |Daniel Joseph  | ||
 |Dino Efstathiou  | || 
-|Hagop Khoshafian | | |
+|Hagop Khoshafian | Hagoku | Advanced |
 |Ouen Rambaud | | |
 |Rhys Caie Corpuz Camayang  | | |
 |Winson Cheng | | |

@@ -35,7 +35,7 @@
 |Aidan Zhou | | |
 |Amy Hu | | |
 |Anthony Toyco | | |
-|Ashvinni Ananthekumar  | | |
+|Ashvinni Ananthekumar  |Ashh0405| Advanced |
 |Dorothy Sahijwani  | | |
 |Gregory Caluyo | | |
 |Harrison hong | | |

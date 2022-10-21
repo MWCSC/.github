@@ -16,7 +16,7 @@
 |Winson Cheng | | |
 |Alexia Lee | | |
 |Anna Kim | | |
-|Benjamin Vuong | | |
+|Benjamin Vuong |scout1742 |Beginner |
 |Dineca Joseph Santhakumar| | |
 |Grace Bennett  | | |
 |Jennalyn Morales | | |

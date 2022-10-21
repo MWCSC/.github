@@ -42,7 +42,7 @@
 |Jasmine Gherman| | |
 |Joshua Adolfo | | |
 |Joshua Crisologo | | | 
-|Joy Fernandes | | |
+|Joy Fernandes | caramelchief | intermediate |
 |Saron Mengistu  | | | 
 |Sean Custodio | | |
 |Vince Sabaten | | |

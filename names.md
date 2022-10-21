@@ -34,8 +34,8 @@
 |Sobanikka Xavier | melon lemon826 | beginner |
 |Aidan Zhou | | |
 |Amy Hu | | |
+|Ashvinni Ananthekumar  |Ashh0405| Advanced |
 |Anthony Toyco | anthonytoyco | Advanced Member |
-|Ashvinni Ananthekumar  | | |
 |Dorothy Sahijwani  |Dorothy023 |Advance level|
 |Gregory Caluyo | | |
 |Harrison hong | | |

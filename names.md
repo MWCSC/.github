@@ -21,11 +21,11 @@
 |Grace Bennett  | | |
 |Jennalyn Morales | | |
 |Jessica Williams  | | |
+|Marius Sasu |dracula0|Beginner|
 |Mallorie Rae Ambas Cunanan |Mallorie1115| Beginner Lead|
 |Joy Giaus-Obas | giausoo| Beginner|
 |Linda Melendez |toosmartie|beginner| 
 |Leah aquino |shhshshlxanne | Beginner|
-|Marius Sasu | | |
 |Megan Rhyz Angela Cabasan | | |
 |Morin Emmanuel  |Morin-Emma|Beginner|
 |Prashanth Theethasge | | |

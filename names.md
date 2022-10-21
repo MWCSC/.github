@@ -24,7 +24,7 @@
 |Joy Giaus-Obas | | |
 |Leah aquino | | |
 |Linda Melendez | | | 
-|Mallorie Rae Ambas Cunanan | | |
+|Mallorie Rae Ambas Cunanan |Mallorie1115| Beginner Lead|
 |Marius Sasu | | |
 |Megan Rhyz Angela Cabasan | | |
 |Morin Emmanuel  | | |

@@ -39,7 +39,7 @@
 |Dorothy Sahijwani  | | |
 |Gregory Caluyo | | |
 |Harrison hong | | |
-|Jasmine Gherman| | |
+|Jasmine Gherman|jasmineGherman|Intermediate|
 |Joshua Adolfo | | |
 |Joshua Crisologo | | | 
 |Joy Fernandes | | |

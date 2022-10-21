@@ -4,7 +4,7 @@
 |----|--------|----|
 |Example|mwcca|intermediate|
 | Christian Fernandes| 5late | Advanced Lead |
-|Ryan Alumkal| | |
+|Ryan Alumkal|ryanalumkal |Intermediate Lead |
 |Nolawi Yonas | nolawiyonas1 | Beginner Lead|
 | Alexandre Waneis   |        ||
 |Hagop Khoshafian | Hagoku | Advanced |

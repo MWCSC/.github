@@ -8,8 +8,8 @@
 |Nolawi Yonas | nolawiyonas1 | Beginner Lead|
 | Alexandre Waneis   |        ||
 |Daniel Chu |  |  |
-|Daniel Joseph  | ||
-|Dino Efstathiou  |Askizye|Advanced| 
+|Daniel Joseph  |DanielJ6499 |Advanced team|
+|Dino Efstathiou  |Askizye|Advanced|
 |Hagop Khoshafian | | |
 |Ouen Rambaud | | |
 |Rhys Caie Corpuz Camayang  | | |

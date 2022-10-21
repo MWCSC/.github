@@ -14,7 +14,7 @@
 |Ouen Rambaud | | |
 |Winson Cheng | winsonC10| Advanced Team|
 |Rhys Caie Corpuz Camayang  | RhysssPuffsss | Advanced Team |
-|Alexia Lee | | |
+|Alexia Lee |valorexies |beginner |
 |Anna Kim |nabillyx|beginner|
 |Benjamin Vuong |scout1742 |Beginner |
 |Dineca Joseph Santhakumar|Dineca|Beginner|

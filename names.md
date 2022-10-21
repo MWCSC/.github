@@ -22,7 +22,7 @@
 |Jennalyn Morales | | |
 |Jessica Williams  | | |
 |Joy Giaus-Obas | | |
-|Leah aquino | | |
+|Leah aquino |shhshshlxanne | Beginner|
 |Linda Melendez | | | 
 |Mallorie Rae Ambas Cunanan | | |
 |Marius Sasu | | |

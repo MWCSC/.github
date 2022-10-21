@@ -21,7 +21,7 @@
 |Grace Bennett  | | |
 |Jennalyn Morales | | |
 |Jessica Williams  | | |
-|Joy Giaus-Obas | | |
+|Joy Giaus-Obas | giausoo| Beginner|
 |Linda Melendez |toosmartie|beginner| 
 |Leah aquino |shhshshlxanne | Beginner|
 |Mallorie Rae Ambas Cunanan | | |

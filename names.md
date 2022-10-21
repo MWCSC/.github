@@ -15,7 +15,7 @@
 |Rhys Caie Corpuz Camayang  | | |
 |Winson Cheng | | |
 |Alexia Lee | | |
-|Anna Kim | | |
+|Anna Kim |nabillyx|beginner|
 |Benjamin Vuong | | |
 |Dineca Joseph Santhakumar| | |
 |Grace Bennett  | | |

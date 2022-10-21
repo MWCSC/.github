@@ -9,7 +9,7 @@
 | Alexandre Waneis   |        ||
 |Daniel Chu |  |  |
 |Daniel Joseph  | ||
-|Dino Efstathiou  | || 
+|Dino Efstathiou  |Askizye|Advanced| 
 |Hagop Khoshafian | | |
 |Ouen Rambaud | | |
 |Rhys Caie Corpuz Camayang  | | |

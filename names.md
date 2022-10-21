@@ -33,7 +33,7 @@
 |Sofia Borabien  |sofiabrbn|Beginner Lead|
 |Sobanikka Xavier | melon lemon826 | beginner |
 |Aidan Zhou | | |
-|Amy Hu | | |
+|Amy Hu | Amswho | intermediate |
 |Ashvinni Ananthekumar  |Ashh0405| Advanced |
 |Anthony Toyco | anthonytoyco | Advanced Member |
 |Dorothy Sahijwani  |Dorothy023 |Advance level|

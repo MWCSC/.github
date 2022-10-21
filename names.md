@@ -49,6 +49,7 @@
 |jacob de leon | | |
 |Stephanie Zhang | | | 
 |Kerrie Huang | | |
+|Adrian Tsui |AdrianCodingClubMW |Intermediate |
 |Jessen Comia | jc9mia| beginner|
 |Noah Simmons |ELITEGameStudios |Advanced |
 |Sean Bacudio |Seanlmb |Beginner |

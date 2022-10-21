@@ -31,7 +31,7 @@
 |Prashanth Theethasge | | |
 |Sabinus Shibu | | |
 |Sobanikka Xavier | | |
-|Sofia Borabien  | | |
+|Sofia Borabien  |sofiabrbn|Beginner Lead|
 |Aidan Zhou | | |
 |Amy Hu | | |
 |Anthony Toyco | | |

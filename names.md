@@ -34,7 +34,7 @@
 |Sofia Borabien  | | |
 |Aidan Zhou | | |
 |Amy Hu | | |
-|Anthony Toyco | | |
+|Anthony Toyco | anthonytoyco | Advanced Member |
 |Ashvinni Ananthekumar  | | |
 |Dorothy Sahijwani  | | |
 |Gregory Caluyo | | |

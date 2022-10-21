@@ -17,7 +17,7 @@
 |Alexia Lee | | |
 |Anna Kim | | |
 |Benjamin Vuong | | |
-|Dineca Joseph Santhakumar| | |
+|Dineca Joseph Santhakumar|Dineca|Beginner|
 |Grace Bennett  | | |
 |Jennalyn Morales | | |
 |Jessica Williams  | | |

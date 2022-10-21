@@ -27,7 +27,7 @@
 |Mallorie Rae Ambas Cunanan | | |
 |Marius Sasu | | |
 |Megan Rhyz Angela Cabasan | | |
-|Morin Emmanuel  | | |
+|Morin Emmanuel  |Morin-Emma|Beginner|
 |Prashanth Theethasge | | |
 |Sabinus Shibu | | |
 |Sobanikka Xavier | melon lemon826 | beginner |

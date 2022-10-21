@@ -38,9 +38,9 @@
 |Anthony Toyco | anthonytoyco | Advanced Member |
 |Dorothy Sahijwani  |Dorothy023 |Advance level|
 |Gregory Caluyo | | |
-|Harrison hong | | |
 |Jasmine Gherman|jasmineGherman|Intermediate|
 |Joshua Adolfo | atlysj | Intermediate Member |
+|Harrison hong |Harrycorderds| intermediate|
 |Joshua Crisologo | | | 
 |Joy Fernandes | caramelchief | intermediate |
 |Saron Mengistu  | | | 

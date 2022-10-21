@@ -7,7 +7,7 @@
 |Ryan Alumkal| | |
 |Nolawi Yonas | nolawiyonas1 | Beginner Lead|
 | Alexandre Waneis   |        ||
-|Daniel Chu |  |  |
+| Daniel Chu | vindan895 | Advanced |
 |Daniel Joseph  | ||
 |Dino Efstathiou  | || 
 |Hagop Khoshafian | | |

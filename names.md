@@ -49,5 +49,6 @@
 |jacob de leon | | |
 |Stephanie Zhang | | | 
 |Kerrie Huang | | |
+|Noah Simmons |ELITEGameStudios |Advanced |
 |Sean Bacudio |Seanlmb |Beginner |
 |Adalyn Chen  | adalync | Beginner |

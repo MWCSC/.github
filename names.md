@@ -33,7 +33,7 @@
 |Sobanikka Xavier | | |
 |Sofia Borabien  | | |
 |Aidan Zhou | | |
-|Amy Hu | | |
+|Amy Hu | Amswho | intermediate |
 |Anthony Toyco | | |
 |Ashvinni Ananthekumar  | | |
 |Dorothy Sahijwani  | | |

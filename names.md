@@ -22,8 +22,8 @@
 |Jennalyn Morales | | |
 |Jessica Williams  | | |
 |Joy Giaus-Obas | | |
+|Linda Melendez |toosmartie|beginner| 
 |Leah aquino |shhshshlxanne | Beginner|
-|Linda Melendez | | | 
 |Mallorie Rae Ambas Cunanan | | |
 |Marius Sasu | | |
 |Megan Rhyz Angela Cabasan | | |

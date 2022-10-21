@@ -9,7 +9,7 @@
 | Alexandre Waneis   |        ||
 |Daniel Chu |  |  |
 |Daniel Joseph  |DanielJ6499 |Advanced team|
-|Dino Efstathiou  | || 
+|Dino Efstathiou  |Askizye|Advanced|
 |Hagop Khoshafian | | |
 |Ouen Rambaud | | |
 |Rhys Caie Corpuz Camayang  | | |
@@ -22,25 +22,25 @@
 |Jennalyn Morales | | |
 |Jessica Williams  | | |
 |Joy Giaus-Obas | | |
-|Leah aquino | | |
+|Leah aquino |shhshshlxanne | Beginner|
 |Linda Melendez | | | 
 |Mallorie Rae Ambas Cunanan | | |
 |Marius Sasu | | |
 |Megan Rhyz Angela Cabasan | | |
-|Morin Emmanuel  | | |
+|Morin Emmanuel  |Morin-Emma|Beginner|
 |Prashanth Theethasge | | |
 |Sabinus Shibu | | |
-|Sobanikka Xavier | | |
+|Sobanikka Xavier | melon lemon826 | beginner |
 |Sofia Borabien  | | |
 |Aidan Zhou | | |
 |Amy Hu | | |
 |Anthony Toyco | | |
 |Ashvinni Ananthekumar  | | |
-|Dorothy Sahijwani  | | |
+|Dorothy Sahijwani  |Dorothy023 |Advance level|
 |Gregory Caluyo | | |
 |Harrison hong | | |
 |Jasmine Gherman| | |
-|Joshua Adolfo | | |
+|Joshua Adolfo | atlysj | Intermediate Member |
 |Joshua Crisologo | | | 
 |Joy Fernandes | | |
 |Saron Mengistu  | | | 

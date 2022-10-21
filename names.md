@@ -49,3 +49,4 @@
 |jacob de leon | | |
 |Stephanie Zhang | | | 
 |Kerrie Huang | | |
+|Arthur Jiang |AquaDummy |Advanced Team |

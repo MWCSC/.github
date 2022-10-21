@@ -2,7 +2,7 @@
 
 |Name|GitHub Username|Team|
 |----|--------|----|
-|Example|||
+|Example|mwcca|intermediate|
 | Christian Fernandes| 5late | Advanced Lead |
 |Ryan Alumkal| | |
 |Nolawi Yonas | nolawiyonas1 | Beginner Lead|

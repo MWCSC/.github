@@ -6,7 +6,7 @@
 | Christian Fernandes| 5late | Advanced Lead |
 |Ryan Alumkal|ryanalumkal |Intermediate Lead |
 |Nolawi Yonas | nolawiyonas1 | Beginner Lead|
-| Alexandre Waneis   |        ||
+| Alexandre Waneis   | Alexandre-Waneis | Advanced |
 |Hagop Khoshafian | Hagoku | Advanced |
 | Daniel Chu | vindan895 | Advanced |
 |Daniel Joseph  |DanielJ6499 |Advanced team|

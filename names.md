@@ -56,3 +56,11 @@
 |Noah Simmons |ELITEGameStudios |Advanced |
 |Sean Bacudio |Seanlmb |Beginner |
 |Adalyn Chen  | adalync | Beginner |
+|Jeska Maya Tubongbanua | | |
+|Rena Ampofo| | |
+|Jessen Comia| | |
+|Abisherk Constantine | | |
+|Sean Daniel Dias | | |
+|Nevaeh Daniel | | |
+|Brittany Cao | | |
+|Justin Angue | | |

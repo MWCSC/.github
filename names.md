@@ -7,10 +7,10 @@
 |Ryan Alumkal| | |
 |Nolawi Yonas | nolawiyonas1 | Beginner Lead|
 | Alexandre Waneis   |        ||
+|Hagop Khoshafian | Hagoku | Advanced |
 | Daniel Chu | vindan895 | Advanced |
 |Daniel Joseph  |DanielJ6499 |Advanced team|
 |Dino Efstathiou  |Askizye|Advanced|
-|Hagop Khoshafian | | |
 |Ouen Rambaud | | |
 |Winson Cheng | winsonC10| Advanced Team|
 |Rhys Caie Corpuz Camayang  | RhysssPuffsss | Advanced Team |

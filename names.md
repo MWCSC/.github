@@ -21,10 +21,10 @@
 |Grace Bennett  | | |
 |Jennalyn Morales | | |
 |Jessica Williams  | | |
+|Mallorie Rae Ambas Cunanan |Mallorie1115| Beginner Lead|
 |Joy Giaus-Obas | giausoo| Beginner|
 |Linda Melendez |toosmartie|beginner| 
 |Leah aquino |shhshshlxanne | Beginner|
-|Mallorie Rae Ambas Cunanan | | |
 |Marius Sasu | | |
 |Megan Rhyz Angela Cabasan | | |
 |Morin Emmanuel  |Morin-Emma|Beginner|

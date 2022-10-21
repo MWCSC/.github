@@ -13,7 +13,7 @@
 |Hagop Khoshafian | | |
 |Ouen Rambaud | | |
 |Rhys Caie Corpuz Camayang  | | |
-|Winson Cheng | | |
+|Winson Cheng | winsonC10| Advanced Team|
 |Alexia Lee | | |
 |Anna Kim | | |
 |Benjamin Vuong | | |

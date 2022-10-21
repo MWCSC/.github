@@ -42,7 +42,7 @@
 |Jasmine Gherman|jasmineGherman|Intermediate|
 |Joshua Adolfo | atlysj | Intermediate Member |
 |Joshua Crisologo | | | 
-|Joy Fernandes | | |
+|Joy Fernandes | caramelchief | intermediate |
 |Saron Mengistu  | | | 
 |Sean Custodio | | |
 |Vince Sabaten | | |

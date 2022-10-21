@@ -40,7 +40,7 @@
 |Gregory Caluyo | | |
 |Harrison hong | | |
 |Jasmine Gherman| | |
-|Joshua Adolfo | | |
+|Joshua Adolfo | atlysj | Intermediate Member |
 |Joshua Crisologo | | | 
 |Joy Fernandes | | |
 |Saron Mengistu  | | | 

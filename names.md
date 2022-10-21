@@ -49,3 +49,4 @@
 |jacob de leon | | |
 |Stephanie Zhang | | | 
 |Kerrie Huang | | |
+|Adalyn Chen  | adalync | Beginner |

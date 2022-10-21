@@ -7,9 +7,9 @@
 |Ryan Alumkal| | |
 |Nolawi Yonas | nolawiyonas1 | Beginner Lead|
 | Alexandre Waneis   |        ||
-|Daniel Chu |  |  |
-|Daniel Joseph  | ||
-|Dino Efstathiou  | || 
+| Daniel Chu | vindan895 | Advanced |
+|Daniel Joseph  |DanielJ6499 |Advanced team|
+|Dino Efstathiou  |Askizye|Advanced|
 |Hagop Khoshafian | | |
 |Ouen Rambaud | | |
 |Rhys Caie Corpuz Camayang  | | |
@@ -22,25 +22,25 @@
 |Jennalyn Morales | | |
 |Jessica Williams  | | |
 |Joy Giaus-Obas | | |
-|Leah aquino | | |
+|Leah aquino |shhshshlxanne | Beginner|
 |Linda Melendez | | | 
 |Mallorie Rae Ambas Cunanan | | |
 |Marius Sasu | | |
 |Megan Rhyz Angela Cabasan | | |
-|Morin Emmanuel  | | |
+|Morin Emmanuel  |Morin-Emma|Beginner|
 |Prashanth Theethasge | | |
 |Sabinus Shibu | | |
-|Sobanikka Xavier | | |
 |Sofia Borabien  |sofiabrbn|Beginner Lead|
+|Sobanikka Xavier | melon lemon826 | beginner |
 |Aidan Zhou | | |
 |Amy Hu | | |
-|Anthony Toyco | | |
+|Anthony Toyco | anthonytoyco | Advanced Member |
 |Ashvinni Ananthekumar  | | |
-|Dorothy Sahijwani  | | |
+|Dorothy Sahijwani  |Dorothy023 |Advance level|
 |Gregory Caluyo | | |
 |Harrison hong | | |
 |Jasmine Gherman| | |
-|Joshua Adolfo | | |
+|Joshua Adolfo | atlysj | Intermediate Member |
 |Joshua Crisologo | | | 
 |Joy Fernandes | | |
 |Saron Mengistu  | | | 
@@ -49,3 +49,5 @@
 |jacob de leon | | |
 |Stephanie Zhang | | | 
 |Kerrie Huang | | |
+|Sean Bacudio |Seanlmb |Beginner |
+|Adalyn Chen  | adalync | Beginner |

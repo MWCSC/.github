@@ -11,7 +11,7 @@
 | Daniel Chu | vindan895 | Advanced |
 |Daniel Joseph  |DanielJ6499 |Advanced team|
 |Dino Efstathiou  |Askizye|Advanced|
-|Ouen Rambaud | | |
+|Ouen Rambaud | ozenr| Advanced|
 |Winson Cheng | winsonC10| Advanced Team|
 |Rhys Caie Corpuz Camayang  | RhysssPuffsss | Advanced Team |
 |Alexia Lee |valorexies |beginner |

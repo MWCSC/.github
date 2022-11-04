@@ -39,7 +39,7 @@
 |Dorothy Sahijwani  |Dorothy023 |Advance level|
 |Gregory Caluyo | | |
 |Harrison hong | | |
-|Jasmine Gherman|jasmineGherman|Intermediate|
+|Jasmine Gherman| jasmineGherman | Advanced |
 |Joshua Adolfo | atlysj | Intermediate Member |
 |Joshua Crisologo | | | 
 |Joy Fernandes | | |

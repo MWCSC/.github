@@ -47,7 +47,7 @@
 |Sean Custodio | | |
 |Vince Sabaten | | |
 |jacob de leon | | |
-|Stephanie Zhang | | | 
+|Stephanie Zhang | stephastove | intermediate | 
 |Kerrie Huang | | |
 |Arthur Jiang |AquaDummy |Advanced Team |
 |Kevin Huang | blubsblub | Beginner |

@@ -38,7 +38,7 @@
 |Anthony Toyco | anthonytoyco | Advanced Member |
 |Dorothy Sahijwani  |Dorothy023 |Advance level|
 |Gregory Caluyo | | |
-|Jasmine Gherman|jasmineGherman|Intermediate|
+|Jasmine Gherman| jasmineGherman | Advanced |
 |Joshua Adolfo | atlysj | Intermediate Member |
 |Harrison hong |Harrycorderds| intermediate|
 |Joshua Crisologo | | | 

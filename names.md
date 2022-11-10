@@ -2,30 +2,30 @@
 
 |Name|GitHub Username|Team|
 |----|--------|----|
-|Example|||
+|Example|mwcca|intermediate|
 | Christian Fernandes| 5late | Advanced Lead |
-|Ryan Alumkal| | |
+|Ryan Alumkal|ryanalumkal |Intermediate Lead |
 |Nolawi Yonas | nolawiyonas1 | Beginner Lead|
-| Alexandre Waneis   |        ||
+| Alexandre Waneis   | Alexandre-Waneis | Advanced |
+|Hagop Khoshafian | Hagoku | Advanced |
 | Daniel Chu | vindan895 | Advanced |
 |Daniel Joseph  |DanielJ6499 |Advanced team|
 |Dino Efstathiou  |Askizye|Advanced|
-|Hagop Khoshafian | | |
-|Ouen Rambaud | | |
-|Rhys Caie Corpuz Camayang  | | |
-|Winson Cheng | | |
-|Alexia Lee | | |
-|Anna Kim | | |
-|Benjamin Vuong | | |
-|Dineca Joseph Santhakumar| | |
+|Ouen Rambaud | ozenr| Advanced|
+|Winson Cheng | winsonC10| Advanced Team|
+|Rhys Caie Corpuz Camayang  | RhysssPuffsss | Advanced Team |
+|Alexia Lee |valorexies |beginner |
+|Anna Kim |nabillyx|beginner|
+|Benjamin Vuong |scout1742 |Beginner |
+|Dineca Joseph Santhakumar|Dineca|Beginner|
 |Grace Bennett  | | |
 |Jennalyn Morales | | |
 |Jessica Williams  | | |
-|Joy Giaus-Obas | | |
+|Marius Sasu |dracula0|Beginner|
+|Mallorie Rae Ambas Cunanan |Mallorie1115| Beginner Lead|
+|Joy Giaus-Obas | giausoo| Beginner|
+|Linda Melendez |toosmartie|beginner| 
 |Leah aquino |shhshshlxanne | Beginner|
-|Linda Melendez | | | 
-|Mallorie Rae Ambas Cunanan | | |
-|Marius Sasu | | |
 |Megan Rhyz Angela Cabasan | | |
 |Morin Emmanuel  |Morin-Emma|Beginner|
 |Prashanth Theethasge | | |
@@ -33,21 +33,34 @@
 |Sofia Borabien  |sofiabrbn|Beginner Lead|
 |Sobanikka Xavier | melon lemon826 | beginner |
 |Aidan Zhou | | |
-|Amy Hu | | |
+|Amy Hu | Amswho | intermediate |
+|Ashvinni Ananthekumar  |Ashh0405| Advanced |
 |Anthony Toyco | anthonytoyco | Advanced Member |
-|Ashvinni Ananthekumar  | | |
 |Dorothy Sahijwani  |Dorothy023 |Advance level|
 |Gregory Caluyo | | |
-|Harrison hong | | |
 |Jasmine Gherman| jasmineGherman | Advanced |
 |Joshua Adolfo | atlysj | Intermediate Member |
+|Harrison hong |Harrycorderds| intermediate|
 |Joshua Crisologo | | | 
-|Joy Fernandes | | |
+|Joy Fernandes | caramelchief | intermediate |
 |Saron Mengistu  | | | 
 |Sean Custodio | | |
 |Vince Sabaten | | |
 |jacob de leon | | |
-|Stephanie Zhang | | | 
+|Stephanie Zhang | stephastove | intermediate | 
 |Kerrie Huang | | |
+|Arthur Jiang |AquaDummy |Advanced Team |
+|Kevin Huang | blubsblub | Beginner |
+|Adrian Tsui |AdrianCodingClubMW |Intermediate |
+|Jessen Comia | jc9mia| beginner|
+|Noah Simmons |ELITEGameStudios |Advanced |
 |Sean Bacudio |Seanlmb |Beginner |
 |Adalyn Chen  | adalync | Beginner |
+|Jeska Maya Tubongbanua | | |
+|Rena Ampofo| | |
+|Jessen Comia| | |
+|Abisherk Constantine | | |
+|Sean Daniel Dias | | |
+|Nevaeh Daniel | | |
+|Brittany Cao | | |
+|Justin Angue | plooof | Intermediate |
